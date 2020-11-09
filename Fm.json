@@ -1,1 +1,26 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.musicbeat","developerName":"iOS_hak","downloadURL":"https://m.box.com/file/721351178750/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fb59fehn8o2ik464l8z7xz3q0icy2ijfb","iconURL":"https://m.box.com/file/739502672801/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fz5j2virlzql5jxcjdoaktnpc13yy8t6q","localizedDescription":"最新のMusicFM\n\n動作は保証されていません","name":"MusicBeat","screenshotURLs":["https://m.box.com/file/739507331223/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2F3hae9sn54eazqgfemqhe8sga09uzr81p"],"size":2184796,"subtitle":"Meet awesome music!","tintColor":"0577","version":"2.10","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":"release"}],"identifier":"com.example.source","name":"MusicFM","news":[],"userInfo":{}}
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.musicbeat",
+      "developerName": "iOS_hak",
+      "downloadURL": "https://m.box.com/file/721351178750/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fb59fehn8o2ik464l8z7xz3q0icy2ijfb",
+      "iconURL": "https://m.box.com/file/739502672801/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fz5j2virlzql5jxcjdoaktnpc13yy8t6q",
+      "localizedDescription": "最新のMusicFM\n\n動作は保証されていません",
+      "name": "MusicBeat",
+      "screenshotURLs": [
+        "https://m.box.com/file/739507331223/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2F3hae9sn54eazqgfemqhe8sga09uzr81p"
+      ],
+      "size": 2184796,
+      "subtitle": "Meet awesome music!",
+      "tintColor": "0577",
+      "version": "2.10",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "release"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "MusicFM",
+  "news": [],
+  "userInfo": {}
+}

@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.musicbeat",
+      "bundleIdentifier": "com.musicbeat.ha",
       "developerName": "iOS_hak",
       "downloadURL": "https://m.box.com/file/721351178750/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fb59fehn8o2ik464l8z7xz3q0icy2ijfb",
       "iconURL": "https://m.box.com/file/739502672801/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fz5j2virlzql5jxcjdoaktnpc13yy8t6q",
